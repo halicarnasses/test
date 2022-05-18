@@ -1,1 +1,2 @@
-console.log('Kedirs merge conflict');
+
+console.log('jon wrote this')
